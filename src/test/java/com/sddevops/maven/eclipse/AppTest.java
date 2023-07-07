@@ -1,4 +1,4 @@
-package com.example.mavengitexercise;
+package com.sddevops.maven.eclipse;
 
 import static org.junit.Assert.assertTrue;
 
